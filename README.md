@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LubaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubalp&count_private=true&show_icons=true&theme=dark)]
+![LubaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubalp&count_private=true&show_icons=true&theme=dark)
 <!--
 **LubaLP/LubaLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
